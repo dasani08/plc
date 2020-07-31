@@ -1,0 +1,10 @@
+export const ROAD_WEIGHT_BREAK_LTL_RATE_TYPE = '10';
+export const ROAD_PALLET_BREAK_LTL_RATE_TYPE = '20';
+export const ROAD_LTL_REEFER_RATE_TYPE = '30';
+export const ROAD_LTL_HEAT_RATE_TYPE = '40';
+export const ROAD_TL_RATE_TYPE = '50';
+export const ROAD_REEFER_TL_RATE_TYPE = '60';
+export const ROAD_REEFER_TL_P_2_P_RATE_TYPE = '70';
+export const ROAD_HEATER_TL_RATE_TYPE = '80';
+export const ROAD_TL_PER_MILE_RATE_TYPE = '90';
+export const ROAD_LTL_PER_MILE_RATE_TYPE = '100';
